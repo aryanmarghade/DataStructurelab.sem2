@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+     printf(" NAME: Aryan Marghade \n PRN: 25070521215 \n SECTION: D(D2) \n SUBJECT: Data  Structures Lab \n");
     char s[1000], st[1000];
     int top = -1, i = 0;
 
